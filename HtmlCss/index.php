@@ -92,5 +92,4 @@
         </div>
     </main>
     <footer class="rodape">COD3R & ALUNOS <?php echo date('Y'); ?></footer>
-
 </html>
