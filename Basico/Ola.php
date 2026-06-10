@@ -10,3 +10,6 @@
 
 <h2>Exemplo B</h2>
 <?=  "Outro forma de me 'Expressar!'" ?>
+
+<?php
+phpinfo();
