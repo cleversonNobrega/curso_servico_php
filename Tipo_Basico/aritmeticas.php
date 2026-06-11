@@ -1,6 +1,6 @@
 <?php
 
-echo 1 + 1 ;
+echo 1 + 1;
 
 echo "\n";
 
@@ -22,11 +22,11 @@ echo 7 / 4;
 
 echo "\n";
 
-echo intdiv(7,4);
+echo intdiv(7, 4);
 
 echo "\n";
 
-echo round(7 /4);
+echo round(7 / 4);
 
 echo "\n";
 

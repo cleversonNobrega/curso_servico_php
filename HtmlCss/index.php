@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
@@ -26,4 +27,5 @@
         </div>
     </main>
     <footer class="rodape">COD3R & ALUNOS <?php echo date('Y'); ?></footer>
+
 </html>

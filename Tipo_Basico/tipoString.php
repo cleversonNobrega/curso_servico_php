@@ -12,7 +12,7 @@ echo 'Também aceito ', 'virgulas';
 echo "\n";
 echo "'teste'" . '"teste"';
 echo "\n";
-print("também existe a função print");
+print ("também existe a função print");
 echo "\n";
 echo strtoupper('maximizado');
 echo "\n";
@@ -22,4 +22,8 @@ echo ucfirst('só primeira letra');
 echo "\n";
 echo ucwords('todos as palavras');
 echo "\n";
+
 echo strlen('quantas letras?');
+
+
+
