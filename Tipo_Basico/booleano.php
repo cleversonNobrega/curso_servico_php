@@ -6,3 +6,5 @@ var_dump(true);
 var_dump(false);
 var_dump('false');
 is_bool(true);
+is_bool(false);
+
