@@ -31,6 +31,13 @@ echo ("\n");
 
 var_dump(1 + "5 cinco");
 
+echo ("\n");
+
 var_dump(1 + "cinco 5");
 
+echo ("\n");
+
 var_dump(1 + "2+ 5");
+
+var_dump((int) "10.5");
+
