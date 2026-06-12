@@ -41,10 +41,10 @@ $texto = 'esse é um texto';
 $texto = $texto . ' qualquer';
 
 $variavelInexistente = 'Valor existente';
+echo ("\n");
+echo $texto;
 
 $valor = $variavelInexistente ?? 'valor default';
 
+echo ("\n");
 echo $valor;
-
-
-echo $texto;
